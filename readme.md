@@ -18,7 +18,7 @@
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
     </div>
 </div>  -->
-
+<!-- 
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -27,7 +27,7 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+7. 🚀 [More](#more) -->
 
 
 <!-- 
@@ -65,7 +65,7 @@ Summarize any kind of article with just one click using the powerful OpenAI mode
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
+<!-- ## <a name="quick-start">🤸 Quick Start</a> -->
 <!-- 
 Follow these steps to set up the project locally on your machine.
 
