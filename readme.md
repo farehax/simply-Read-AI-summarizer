@@ -13,11 +13,11 @@
   </div>
 
   <h3 align="center">An AI Article Summarizer Website</h3>
-
+<!-- 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
     </div>
-</div>
+</div>  -->
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -29,21 +29,20 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## 🚨 Tutorial
 
+<!-- 
 This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a> -->
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Summarize any kind of article with just one click using the powerful OpenAI model.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+<!-- 
+<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a> -->
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -67,7 +66,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 and many more, including code architecture and reusability 
 
 ## <a name="quick-start">🤸 Quick Start</a>
-
+<!-- 
 Follow these steps to set up the project locally on your machine.
 
 **Prerequisites**
@@ -76,15 +75,15 @@ Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
+- [npm](https://www.npmjs.com/) (Node Package Manager) -->
+<!-- 
 **Cloning the Repository**
 
 ```bash
 git clone https://github.com/adrianhajdin/project_ai_summarizer.git
 cd project_ai_summarizer
-```
-
+``` -->
+<!-- 
 **Installation**
 
 Install the project dependencies using npm:
@@ -119,8 +118,8 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ```css
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
-
+@tailwind utilities; -->
+<!-- 
 /* 
   Note: The styles for this gradient grid background is heavily inspired by the creator of this amazing site (https://dub.sh) – all credits go to them! 
 */
@@ -242,17 +241,17 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ```html
 <!-- satoshi font family -->
-<link
+<!-- <link
    href="https://api.fontshare.com/v2/css?f[]=satoshi@1,900,700,500,300,400&display=swap"
-   rel="stylesheet"
+   rel="stylesheet" -->
 />
 <!-- inter font family -->
-<link
+<!-- <link
    href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
    rel="stylesheet"
-/>
+/> -->
 ```
-
+<!-- 
 </details>
 
 ## <a name="links">🔗 Links</a>
@@ -261,7 +260,7 @@ Assets used in the project are [here](https://drive.google.com/file/d/11DLzrWADT
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js 14 Pro Course**
+**Advance your skills with Next.js 14 Pro Course** -->
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
@@ -272,7 +271,7 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 <br />
 <br />
 
-**Accelerate your professional journey with the Expert Training program**
+<!-- **Accelerate your professional journey with the Expert Training program** -->
 
 And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
 
@@ -280,4 +279,4 @@ And if you're hungry for more than just a course and want to understand how we l
 <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
 </a>
 
-#
+# -->
